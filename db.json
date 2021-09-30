@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://images.unsplash.com/photo-1593482892540-73c9199d8949?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c25ha2UlMjBwbGFudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "price": 25,
+      "id": 8
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://images.unsplash.com/photo-1593482892540-73c9199d8949?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c25ha2UlMjBwbGFudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "price": 25,
+      "id": 9
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://images.unsplash.com/photo-1593482892540-73c9199d8949?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c25ha2UlMjBwbGFudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "price": 25,
+      "id": 10
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "price": 25,
+      "id": 13
     }
   ]
 }
